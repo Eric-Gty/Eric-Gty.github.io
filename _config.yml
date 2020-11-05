@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dr. Test Account"
+title                    : "Gao Tianyu (Eric)"
 title_separator          : "-"
-name                     : &name "Dr. Test Account"
+name                     : &name "Gao Tianyu (Eric)"
 description              : &description "personal description"
 url                      : "https://eric-gty.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
