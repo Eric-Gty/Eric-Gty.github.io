@@ -83,7 +83,7 @@ author:
   bio              : "Undergraduate student at Sichuan University"
   location         : "Chengdu, China"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : "ericgtyu@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
