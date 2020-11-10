@@ -12,11 +12,12 @@ Welcome to my personal website! I'm 高天予 (Gao Tianyu),  a senior undergradu
 
 Currently, I'm looking for a Ph.D. position and hope to join the lab with many amazing advisors and students.
 
+**[News]**
 
+* [2020/11/10] Recently invited to give a presentation in ISAIC 2020.
+* [2020/11/11] About to give a presentation of our published short paper in IEEE ICDM 2020.
+* [2020/08/21] One paper was accepted to IEEE ICDM 2020 as a short paper (Acceptance rate: 19.7%).
 
-lala
-
-l
 <!--
 Example: editing a markdown file for a talk
 ![Editing a markdown file for a talk](/images/editing-talk.png)
