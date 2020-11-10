@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-<object data="https://Eric-Gty.github.io/files/CV_Tianyu Gao.pdf" type="application/pdf" width="95%" height="80">
+<object data="https://Eric-Gty.github.io/files/CV_Tianyu Gao.pdf" type="application/pdf" width="90%" height="80">
     <embed src="https://Eric-Gty.github.io/files/CV_Tianyu Gao.pdf">
         <p>My CV can also be downloaded <a href="https://Eric-Gty.github.io/files/CV_Tianyu Gao.pdf"> <u> here</u></a>.</p>
     </embed>
