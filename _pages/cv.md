@@ -11,7 +11,7 @@ redirect_from:
     </embed>
 </object>
 
-{% include base_path %}
+<p>My CV can also be downloaded <a href="https://Eric-Gty.github.io/files/CV_Tianyu Gao.pdf"> <u> here</u></a>.</p>
 
 Education
 ======
