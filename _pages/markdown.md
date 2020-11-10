@@ -7,7 +7,7 @@ redirect_from:
   - /markdown.html
 ---
 
-## Locations of key files/directories
+## Locations of key files/directories ##
 
 <object data="https://Eric-Gty.github.io/files/CV_Tianyu Gao.pdf" type="application/pdf" width="95%" height="300px">
     <embed src="https://Eric-Gty.github.io/files/CV_Tianyu Gao.pdf">
