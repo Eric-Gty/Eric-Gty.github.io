@@ -11,7 +11,7 @@ redirect_from:
     </embed>
 </object>
 
-<p>My CV can also be downloaded <a href="https://Eric-Gty.github.io/files/CV_Tianyu Gao.pdf"> <u> here</u></a>.</p>
+<p>My CV can also be downloaded <a href="https://Eric-Gty.github.io/files/CV_Tianyu Gao.pdf"> here</a>.</p>
 
 Education
 ======
