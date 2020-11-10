@@ -6,11 +6,12 @@ redirect_from:
   - /md/
   - /markdown.html
 ---
-<object data="https://Eric-Gty.github.io/files/CV_Tianyu Gao.pdf" type="application/pdf" width="95%" height="100">
+<object data="https://Eric-Gty.github.io/files/CV_Tianyu Gao.pdf" type="application/pdf" width="95%" height="70">
     <embed src="https://Eric-Gty.github.io/files/CV_Tianyu Gao.pdf">
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://Eric-Gty.github.io/files/CV_Tianyu Gao.pdf">Download PDF</a>.</p>
     </embed>
 </object>
+<p>My CV can be downloaded <a href="https://Eric-Gty.github.io/files/CV_Tianyu Gao.pdf"> here</a>.</p>
 
 * Basic config options: _config.yml
 * Top navigation bar config: _data/navigation.yml
