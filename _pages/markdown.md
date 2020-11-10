@@ -6,7 +6,7 @@ redirect_from:
   - /md/
   - /markdown.html
 ---
-<object data="https://Eric-Gty.github.io/files/CV_Tianyu Gao.pdf" type="application/pdf" width="95%" height="70">
+<object data="https://Eric-Gty.github.io/files/CV_Tianyu Gao.pdf" type="application/pdf" width="100%" height="80">
     <embed src="https://Eric-Gty.github.io/files/CV_Tianyu Gao.pdf">
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://Eric-Gty.github.io/files/CV_Tianyu Gao.pdf">Download PDF</a>.</p>
     </embed>
