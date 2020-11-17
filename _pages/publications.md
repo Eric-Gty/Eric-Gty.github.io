@@ -13,7 +13,7 @@ Conference Paper
 2. Yuexin Wu, __Tianyu Gao__, Sihao Wang, Zhongmin Xiong. "TADO: Time-varying Attention with Dual-Optimizer Model". In _IEEE International Conference on Data Mining (ICDM)_, 2020. __Acceptance rate: 183/930 = 19.7%__
 
 <h2>
-Journel Paper
+Journal Paper
 </h2>
 
 1. __Tianyu Gao__, YueXin Wu, Jin Yang, Wenjun Peng, Luyu Jiang. "Imbalanced Rating Prediction in Recommender System via Extreme Value Distribution-based Method". Under reviewing in _Knowledge-Based Systems_, 2020.
